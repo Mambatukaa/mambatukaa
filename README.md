@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Bat-Amgalan Nasan-Ochir</h1>
-<h3 align="center">I'm a software engineer @erxes</h3>
+<h3 align="center">I'm a Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mambatukaa&label=Profile%20views&color=0e75b6&style=flat" alt="mambatukaa" /> </p>
 
